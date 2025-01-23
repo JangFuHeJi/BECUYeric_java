@@ -15,6 +15,5 @@ public class Identification implements ModInitializer{
     @Override
     public void onInitialize() {
         Registry.register(Registries.ITEM, Identifier.of("eric", "Identification"), CusTOM_Item);
-
     }
 }

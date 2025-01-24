@@ -20,11 +20,11 @@ public class BECUYeric implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.\n" +
 		System.out.println("====================================");
-		System.out.println("*");
-		System.out.println("*");
+		System.out.println("/");
+		System.out.println("/");
 		System.out.println("  BECUYeric is initializing...");
-		System.out.println("*");
-		System.out.println("*");
+		System.out.println("/");
+		System.out.println("/");
 		System.out.println("====================================");
 
 	}

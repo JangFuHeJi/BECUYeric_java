@@ -1,4 +1,11 @@
 package com.eric;
 
-public class BECUYericClient {
+import net.fabricmc.api.ClientModInitializer;
+
+public class BECUYericClient implements ClientModInitializer {
+    public BECUYericClient{
+    }
+    public void onInitializeClient(){
+
+    }
 }
